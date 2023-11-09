@@ -1,4 +1,4 @@
-<p align="center"> <img src="public/carro.svg.png"> </p>
+<p align="center"> <img src="public/carro.svg" width="50%"> </p>
 
 > <h2>Índice</h2>
 
@@ -13,9 +13,10 @@
 ## Sobre
 
 <p align="center">Um formulário de cadastro para a empresa Cox Automotive, a maior empresa do mundo em soluções para o mercado automotivo. Nesse formulário implementei o auto preenchimento de informações do endereço através do valor do CEP inserido pelo usuário.</p>
+<p align="center"> Esse formulário foi desenvolvido para consumir a API ViaCep para que pudesse a partir do cep inserido pelo usuário, preencher automaticamente os campos de UF, Cidade, Logradouro e Bairro. Além disso, foi utilizado o Framework de CSS Bootstrap para estilizar o site e o Framework Redux para o controle de estado. Por fim, foi desenvolvido testes unitários com o Jest e o Testing Library.</p>
 
 
-## Tecnologias utilizadas no projeto
+## Tecnologias
 * HTML
 * CSS
 * TypeScript
@@ -34,9 +35,9 @@
 </ul>
 
 ## Testes
-Teste unitários realizados com o FrameWork Jest e com Testing Library
+Teste unitários realizados com o Framework Jest e com Testing Library.
 
-<p align="center"> <img src="public/assets/screenshot/Screenshot-3.png"> </p>
+<p align="center"> <img src="public/assets/screenshot/Screenshot_3.png"> </p>
 
 ## Instalando
 
@@ -57,4 +58,8 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navega
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.
+Inicia o executor de teste no modo de observação interativo.
+
+
+<h3> “Transformando a maneira como o mundo </h3>
+<h3> compra, vende, usa e compartilha veículos” </h3>
