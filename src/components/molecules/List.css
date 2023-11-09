@@ -1,0 +1,24 @@
+.custom-list {
+  list-style: none;
+  padding: 0;
+  background-color: #fff;
+  border-radius: 1em;
+  padding: 0.5em 1em;
+  border: 2px solid black;
+  width: 15em;
+}
+
+.custom-list .label {
+  font-weight: bold;
+  margin-right: 5px;
+  color: #007bff;
+  background-color: #00518b;
+}
+
+.custom-list li:last-child {
+  color: green;
+}
+
+.custom-list li:last-child {
+  color: red;
+}

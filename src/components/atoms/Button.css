@@ -1,0 +1,22 @@
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.card_container {
+  background-color: #00518b;
+  justify-content: center;
+}
