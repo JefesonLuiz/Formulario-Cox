@@ -6,8 +6,8 @@
 	<li>Sobre</li>
 	<li>Tecnologias</li>
 	<li>Um Pouco do Projeto</li>
+    	<li>Testes</li>
 	<li>Instalando</li>
-    <li>Testes</li>
 </ul>
 
 ## Sobre
